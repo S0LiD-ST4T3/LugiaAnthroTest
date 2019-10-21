@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/shadow_lugia/Shadow_Lugia_Body"
+	"$bumpmap"		"models/details/smooth"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"3"
+	"$phongboost"		"1.2"
+	"$phongfresnelranges"	"[0.047 0.061 0.12]"
+	"$nodecal"		"0"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"0.721"
+}

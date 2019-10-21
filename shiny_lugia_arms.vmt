@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/shared/male_lugia_arms_shared"
+	"$bumpmap"		"models/details/smooth"
+	"$color2"			"{233 233 239}"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"2"
+	"$phongboost"		"3"
+	"$phongfresnelranges"	"[0.04 0.05 0.12]"
+	"$nodecal"		"0"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"2"
+}

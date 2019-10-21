@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/lugia/Female_Shiny_Lugia_Body"
+	"$bumpmap"		"models/details/smooth"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[0.02 0.01 0.01]"
+	"$nodecal"		"0"
+}

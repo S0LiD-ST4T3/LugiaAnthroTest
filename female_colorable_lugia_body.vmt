@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/lugia/Female_Colorable_Lugia_Body"
+	"$bumpmap"		"models/details/smooth"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"2"
+	"$phongboost"		"3"
+	"$phongfresnelranges"	"[0.04 0.05 0.12]"
+	"$nodecal"		"0"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"2"
+
+	"$blendtintbybasealpha"	"1"
+ 	"$blendtintcoloroverbase"	"0"
+
+	"$PhongBrightnessScalar"	"0.5"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default	1 1 1
+		}
+
+	}
+}

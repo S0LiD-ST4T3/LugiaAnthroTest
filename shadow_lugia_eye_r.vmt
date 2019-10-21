@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/diving/shadow_lugia/Shadow_Lugia_Eyes"
+	"$bumpmap"		"models/details/smooth"
+       	"$model"			"1"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[0.02 0.01 0.01]"
+	"$nodecal"		"1"
+	"$selfillum"		"1"
+}

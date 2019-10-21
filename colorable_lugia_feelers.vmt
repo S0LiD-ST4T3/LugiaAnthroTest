@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/shared/lugia_shared"
+	"$bumpmap"		"models/details/smooth"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"1"
+	"$phongboost"		"2"
+	"$phongfresnelranges"	"[0.027 0.04 0.08]"
+	"$nodecal"		"0"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"0.25"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default	0 0 0
+		}
+
+	}
+}

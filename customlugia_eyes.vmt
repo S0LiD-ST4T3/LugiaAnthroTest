@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/shared/customlugia_eyes"
+	"$bumpmap"		"models/details/customlugia_eyes_normal"
+	"$halflambert"		"1"
+	"$phong"			"1"
+ 	"$phongexponent"		"25"
+	"$phongboost"		"2"
+	"$phongfresnelranges"	"[0.02 0.01 0.01]"
+	"$nodecal"		"1"
+}

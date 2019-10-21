@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/lugia/Lugia_Eyes"
+	//"$bumpmap"		"models/details/smooth"
+       	"$model"			"1"
+	"$alphatest"		"1"
+	"$halflambert"		"1"
+	"$nodecal"		"1"
+	"$nocull"			"0"
+	//"$envmap"		"env_cubemap"
+	"$envmap"		"cubemaps\cubemap_sheen001"
+	"$envmapmask"		"models\details\Eyes_Ref"
+}

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models/diving/shared/lugia_shared"
+	"$bumpmap"		"models/details/smooth"
+	"$color2"			"{195 221 239}"
+	"$halflambert"		"1"
+	"$phong"			"2"
+	"$phongboost"		"3"
+	"$phongfresnelranges"	"[0.06 0.08 0.12]"
+	"$nodecal"		"0"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"1.5"
+}
